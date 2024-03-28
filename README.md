@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on some Web3 projects
 - 📫 How to reach me 0xfr3eATGMAIL
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Bitcoin is simple and powerful
 
 <!---
 Fr3e0/Fr3e0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
