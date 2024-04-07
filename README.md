@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web3
 - 🌱 I’m currently learning Bticoin and Ethereum
 - 💞️ I’m looking to collaborate on some Web3 projects
-- 📫 How to reach me 0xfr3eATGMAIL
+- 📫 How to reach me 0xfr3eATGMAILDOTCOM
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Bitcoin is simple and powerful
 
